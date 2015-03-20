@@ -1,8 +1,11 @@
-package lab.tasks.third;
+package lab.tasks;
 import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;
 
+import lab.tasks.third.Point1D;
+import lab.tasks.third.Point2D;
+import lab.tasks.third.Point3D;
 import lab.utils.FileUtils;
 
 

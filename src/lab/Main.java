@@ -1,6 +1,6 @@
 package lab;
 
-import lab.tasks.third.ThirdTask;
+import lab.tasks.ThirdTask;
 
 public class Main {
 
